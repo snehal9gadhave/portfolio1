@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snehal Gadhave- Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Hi, I'm <span class="highlight">Snehal Gadhave</span></h1>
+        <p>I am a B.Tech Student (AI & DS) at <strong>Your College Name</strong> with strong interests in Python,  
+           Data Science, Web Development, AI, and Cloud Technologies.</p>
+        <p>I enjoy building projects, solving real-world problems, and continuously improving my  
+           technical skills.</p>
+    </header>
+
+    <!-- ABOUT ME -->
+    <section class="box">
+        <h2>ABOUT ME</h2>
+        <ul class="list">
+            <li><strong>Name:</strong> Snehal Gadhave</li>
+            <li><strong>Course:</strong> B.Tech in Artificial Intelligence & Data Science</li>
+            <li><strong>College:</strong> Zeal clg of engineering pune</li>
+            <li><strong>Year:</strong> Second Year (SY)</li>
+            <li><strong>Location:</strong> Pune, Maharashtra</li>
+            <li><strong>Email:</strong> gadhavesnehal195@gmail.com</li>
+            <li><strong>Contact No.:</strong> 9359301290</li>
+        </ul>
+    </section>
+
+    <!-- SKILLS -->
+    <section class="box">
+        <h2>SKILLS</h2>
+
+        <h3>Programming Languages</h3>
+        <ul class="list">
+            <li>Python</li>
+            <li>C / C++</li>
+            <li>Java (Optional)</li>
+          <li> SQL</li>
+        </ul>
+
+        <h3>Data & AI Skills</h3>
+        <ul class="list">
+            <li>Machine Learning (Basics)</li>
+            <li>Data Analysis (Pandas, NumPy)</li>
+            <li>Data Visualization (Matplotlib, Power BI / Tableau)</li>
+            <li>SQL & Database Management</li>
+        </ul>
+
+        <h3>Web & Cloud Skills</h3>
+        <ul class="list">
+            <li>HTML / CSS</li>
+            <li>WordPress / Wix Website Creation</li>
+            <li>Cloud Basics (AWS / Azure)</li>
+        </ul>
+
+        <h3>Tools</h3>
+        <ul class="list">
+            <li>Jupyter Notebook</li>
+            <li>Git & GitHub</li>
+            <li>VS Code</li>
+            <li>Excel</li>
+            <li>Google Colab</li>
+        </ul>
+    </section>
+
+    <!-- PROJECTS -->
+    <section class="box">
+        <h2>PROJECTS</h2>
+
+        <div class="project">
+            <h3>Project 1: Diary Inventory System</h3>
+            <p>A diary and inventory management system that helps store, track, and organize  
+               important notes or daily entries.</p>
+            <p><strong>Tech Stack:</strong> Python, HTML, CSS</p>
+            <p><strong>Link:</strong> Not Uploaded</p>
+        </div>
+
+        <div class="project">
+            <h3>Project 2: (Add Your Second Project)</h3>
+            <p>Write 3–4 lines about your second project.</p>
+            <p><strong>Tech Stack:</strong> Python / ML etc.</p>
+            <p><strong>Link:</strong> Not Uploaded</p>
+        </div>
+    </section>
+
+    <!-- CERTIFICATIONS -->
+    <section class="box">
+        <h2>CERTIFICATIONS & ACHIEVEMENTS</h2>
+        <ul class="list">
+            <li>Completed Python Basics – HackerRank</li>
+            <li>Completed SQL Intermediate – HackerRank</li>
+            <li>Machine Learning Course – Coursera</li>
+            <li>Participation in Hackathons / Competitions</li>
+            <li>Participant in College Tech Fest</li>
+        </ul>
+    </section>
+
+    <!-- IMPORTANT LINKS -->
+    <section class="box">
+        <h2>IMPORTANT LINKS</h2>
+        <ul class="list">
+            <li><strong>GitHub:</strong> https://github.com/your-username</li>
+            <li><strong>LinkedIn:</strong> https://www.linkedin.com/in/your-username</li>
+            
+            <li><strong>LeetCode:</strong> https://leetcode.com/your-username</li>
+            <li><strong>Portfolio Website (if any):</strong> Not Added</li>
+        </ul>
+    </section>
+
+    <!-- RESUME -->
+    <section class="box">
+        <h2>RESUME</h2>
+        <a href="#" class="resume-btn">Click to Download My Resume</a>
+    </section>
+
+    <!-- CONTACT -->
+    <section class="box">
+        <h2>CONTACT ME</h2>
+        <p>Have a project idea or collaboration in mind?<br>Feel free to reach out!</p>
+        <ul class="list">
+            <li><strong>Email:</strong> balapureanushtha9@gmail.com</li>
+            <li><strong>LinkedIn:</strong> your-link</li>
+            <li><strong>GitHub:</strong> your-github-link</li>
+        </ul>
+    </section>
+
+    <footer>
+        © 2025 Snehal Gadhave| Made with ❤️ by an aspiring AI & DS Engineer.
+    </footer>
+
+</body>
+</html>
